@@ -1,0 +1,6 @@
+hi
+demo
+-----------
+Adding new line by using the VI tool
+-----------
+hhh adding line number 3
