@@ -1,5 +1,5 @@
 hi
-demo
+demo demo2
 -----------
 Adding new line by using the VI tool
 -----------
